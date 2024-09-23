@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Tuan 👋
 
 <!--
 **tuantranO4/tuantranO4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Currently a BsC student, hopefully I can be a tech engineer, preferably video games engineer, passionate with customize workspace, clean code and dark theme 🌌.
+Favorite programming language: C# and Java. Still young, more to come and more to learn!
+I wanted to be an astrophysicist or meteorologist but life forced me here, who knows ¯\_(ツ)_/¯.
