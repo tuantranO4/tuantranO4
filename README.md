@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 Currently a BsC student, hopefully I can be a tech engineer, preferably video games engineer, passionate with customize workspace, clean code and dark theme 🌌.
 
-Favorite programming language: C# and Java. Still young, more to come and more to learn!
+Favorite programming language: C# and Java.
+
 
 I wanted to be an astrophysicist or a meteorologist but life forced me here, who knows (ツ).
