@@ -19,4 +19,3 @@ Currently a BsC student, hopefully I can be a tech engineer, preferably video ga
 Favorite programming language: C# and Java.
 
 
-I wanted to be an astrophysicist or a meteorologist but life forced me here, who knows (ツ).
