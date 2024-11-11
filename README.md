@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 Currently a BsC student, hopefully I can be a tech engineer, preferably video games engineer, passionate with customize workspace, clean code and dark theme 🌌.
 
-Favorite programming language: C# and Java.
+Favorite programming language: C#, Java, Haskell.
 
 
