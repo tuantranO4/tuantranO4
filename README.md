@@ -21,6 +21,6 @@ You solitary one, you go the way to yourself! And your way leads you past yourse
 You will be a heretic to yourself, and a sorcerer and a soothsayer, and a fool, and a doubter, and a reprobate, and a villain.
 You must be ready to burn yourself in your own flame; how could you rise anew if you have not first become ashes!"
 
-Favorite programming language: C#, Java, Haskell.
+Favorite programming languages: C#, Java, Haskell.
 
 
